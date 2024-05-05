@@ -1,0 +1,32 @@
+#food
+{
+    display: flex;
+    /* display: flex; */
+    
+     flex-wrap:wrap; 
+     justify-content: space-evenly;
+}
+#p1
+{
+    margin-right: 20px;
+}
+#food1
+{
+    display: flex;
+}  
+#food2
+{
+    display: flex;
+}
+#p3
+{
+   margin-right: 20px; 
+}
+#p4
+{
+   margin-right: 20px; 
+}
+#p2
+{
+   margin-right: 20px; 
+}
